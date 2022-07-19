@@ -7,6 +7,9 @@
 # Expected Time Complexity : O(N)
 # Expected Auxilliary Space : O(N)
 
+# Test Cases Passed: 
+#  10126 /10126 
+
 # Constraints:
 # 1<=N<=107
 # 1<=A[],B[]<=1018
@@ -38,12 +41,4 @@ else:
     print("False, Not equal")
 
    
-# Test Cases Passed: 
-# 10126 /10126
-# Your Total Score: 
-# 4
-# Total Time Taken: 
-# 1.95
-# Correct Submission Count: 
-# 2
-    
+
