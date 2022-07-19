@@ -36,3 +36,14 @@ if(len(A)==len(B)):
         print("False, Not equal")
 else:
     print("False, Not equal")
+
+   
+# Test Cases Passed: 
+# 10126 /10126
+# Your Total Score: 
+# 4
+# Total Time Taken: 
+# 1.95
+# Correct Submission Count: 
+# 2
+    
